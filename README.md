@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Katherine</h1>
-<h3 align="center">Finance student learning coding as hobby</h3>
+<h3 align="center">Learning coding as a hobby</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katherinebaek&label=Profile%20views&color=0e75b6&style=flat" alt="katherinebaek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katherinebaek" alt="katherinebaek" /></a> </p>
-
-- 🔭 I’m currently working on **Odin Project**
 
 - 🌱 I’m currently learning **Javascript**
 
